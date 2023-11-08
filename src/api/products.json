@@ -1,0 +1,142 @@
+[
+	{
+		"id": 1,
+		"title": "Camisa de vestir para hombres",
+		"description": "Camisa de vestir elegante para ocasiones especiales",
+		"price": 49.99,
+		"thumbnails": [
+			"ruta-imagen-1.jpg",
+			"ruta-imagen-2.jpg"
+		],
+		"code": "54321",
+		"category": "Ropa para hombres",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Vestido de noche para mujeres",
+		"description": "Vestido de noche deslumbrante para ocasiones especiales",
+		"price": 79.99,
+		"thumbnails": [
+			"ruta-imagen-3.jpg",
+			"ruta-imagen-4.jpg"
+		],
+		"code": "67890",
+		"category": "Ropa para mujeres",
+		"stock": 15,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Zapatos de cuero para hombres",
+		"description": "Zapatos de cuero elegantes y cómodos",
+		"price": 89.99,
+		"thumbnails": [
+			"ruta-imagen-5.jpg",
+			"ruta-imagen-6.jpg"
+		],
+		"code": "13579",
+		"category": "Calzado para hombres",
+		"stock": 25,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Vestido de playa para mujeres",
+		"description": "Vestido de playa ligero y cómodo para días soleados",
+		"price": 39.99,
+		"thumbnails": [
+			"ruta-imagen-7.jpg",
+			"ruta-imagen-8.jpg"
+		],
+		"code": "24680",
+		"category": "Ropa para mujeres",
+		"stock": 30,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Sombrero de verano unisex",
+		"description": "Sombrero de ala ancha perfecto para protegerse del sol",
+		"price": 19.99,
+		"thumbnails": [
+			"ruta-imagen-9.jpg",
+			"ruta-imagen-10.jpg"
+		],
+		"code": "97531",
+		"category": "Accesorios",
+		"stock": 40,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Chaqueta de cuero para hombres",
+		"description": "Chaqueta de cuero elegante y resistente para el uso diario",
+		"price": 199.99,
+		"thumbnails": [
+			"ruta-imagen-11.jpg",
+			"ruta-imagen-12.jpg"
+		],
+		"code": "86421",
+		"category": "Ropa para hombres",
+		"stock": 10,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Vestido de cóctel para mujeres",
+		"description": "Vestido de cóctel elegante para eventos formales",
+		"price": 69.99,
+		"thumbnails": [
+			"ruta-imagen-13.jpg",
+			"ruta-imagen-14.jpg"
+		],
+		"code": "75311",
+		"category": "Ropa para mujeres",
+		"stock": 8,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Zapatos deportivos unisex",
+		"description": "Zapatos deportivos cómodos y de moda para todas las edades",
+		"price": 79.99,
+		"thumbnails": [
+			"ruta-imagen-15.jpg",
+			"ruta-imagen-16.jpg"
+		],
+		"code": "01235",
+		"category": "Calzado",
+		"stock": 15,
+		"status": true
+	},
+	{
+		"id": 9,
+		"title": "Gorra de béisbol unisex",
+		"description": "Gorra de béisbol clásica para protegerse del sol",
+		"price": 19.99,
+		"thumbnails": [
+			"ruta-imagen-17.jpg",
+			"ruta-imagen-18.jpg"
+		],
+		"code": "98766",
+		"category": "Accesorios",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 10,
+		"title": "Bufanda de invierno unisex",
+		"description": "Bufanda de invierno cálida y elegante para los días fríos",
+		"price": 29.99,
+		"thumbnails": [
+			"ruta-imagen-19.jpg",
+			"ruta-imagen-20.jpg"
+		],
+		"code": "56790",
+		"category": "Accesorios",
+		"stock": 25,
+		"status": true
+	}
+]
